@@ -13,11 +13,11 @@ I build web applications with React, Spring Boot, and FastAPI, and desktop appli
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Java, Python, C++, JavaScript, TypeScript, SQL |
-| Frontend | React, HTML, CSS, Tailwind CSS |
-| Backend | Spring Boot, FastAPI |
-| Database | MySQL |
-| Desktop | JavaFX |
+| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="24" height="24" alt="Java" /> Java &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python" /> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="24" height="24" alt="C++" /> C++ &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" /> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" /> TypeScript &nbsp; SQL |
+| Frontend | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" height="24" alt="React" /> React &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="24" height="24" alt="HTML" /> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="24" height="24" alt="CSS" /> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" alt="Tailwind CSS" /> Tailwind CSS |
+| Backend | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="24" height="24" alt="Spring Boot" /> Spring Boot &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI" /> FastAPI |
+| Database | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" /> MySQL |
+| Desktop | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="24" height="24" alt="JavaFX (Java)" /> JavaFX (Java) |
 
 ## Selected projects
 
