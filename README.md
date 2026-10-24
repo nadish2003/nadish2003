@@ -1,5 +1,7 @@
 # Nadish Sathsara
 
+[Tech stack](#technologies-i-work-with) · [Projects](#selected-projects) · [Contact](#connect)
+
 **Full-stack Developer · Computer Science & Engineering Undergraduate**  
 University of Moratuwa · Second Year
 
